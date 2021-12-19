@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(233, 249, 186);
+}
+
+
+h1 {
+    color: rgb(187, 32, 32);
+}
+
+
+p {
+    color: rgb(59, 92, 6);
+}
+
+.second-class {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
